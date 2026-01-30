@@ -1,0 +1,2 @@
+model,n_neighbors,weights,n_features,test_accuracy,test_precision,test_recall,test_f1
+KNN,5,uniform,36,0.7982062780269058,0.759493670886076,0.6976744186046512,0.7272727272727273
