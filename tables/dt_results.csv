@@ -1,0 +1,2 @@
+model,cv_mean_accuracy,test_accuracy,best_params
+DecisionTree,0.8113791942542925,0.7847533632286996,"{'model__ccp_alpha': 0.01, 'model__criterion': 'entropy', 'model__max_depth': 9, 'model__min_samples_leaf': 2, 'model__min_samples_split': 2}"
